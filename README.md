@@ -1,2 +1,2 @@
 # Maratona
-Resolution of maradona exercises (exercises in EN / ES / PT)
+Resolution of maratona exercises (exercises in EN / ES / PT)
