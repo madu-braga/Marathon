@@ -1,2 +1,2 @@
-# Maratona
-Resolution of maratona exercises (exercises in EN / ES / PT)
+# Marathon
+Resolution of marathon exercises (exercises in EN/ES/PT)
